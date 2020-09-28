@@ -1,0 +1,5 @@
+* note taking software
+
+  it seems like we are in some kind of new wave of note taking software, particularly with notion.so and roamresearch drawing accolades, and various new open source alternatives like org-roam and athens.
+
+  I would like to use this space to expand on some related ideas.
