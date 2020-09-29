@@ -20,6 +20,8 @@
 
 **** zim
 
+**** tomboy
+
 *** plain text editors and derivatives
 
     and how everybody invents a new format
@@ -36,6 +38,22 @@
 
 **** vnd/tiddlywiki
 
+*** libraries, shoeboxes, clipboards
+
+**** evernote
+
+**** onenote
+
+**** DEVONthink
+
+*** mind mapping / graphs
+
+**** freemind
+
+*** mixed media
+
+**** xournal family
+
 ** ergonomics
 
 *** it's about the speed
@@ -43,6 +61,8 @@
     the barrier between the thought and the (permanent medium)
 
 **** transformation cost (or impedance mismatch)
+
+     and why "OS default" has never caught on because people are too different
 
 ***** converting thought to another medium
 
@@ -95,7 +115,7 @@
       
 ***** the exception: perfect recall
 
-      - people who never forget
+      - people who never forget (that article)
       - even people who never forget /need a cue/
 
       you are thus recording /cues/, among other things
@@ -106,6 +126,13 @@
       - I am trying to record what the teacher is saying (information dump)
       - I am recording a thought (thought stream, information dump)
       - I am recording a sensation (cross modal memory cue)
+      
+***** the second exception: exceptional recall
+
+      - eliezer yudkowsky
+      - stephen wolfram
+
+      since you are reading this, you are neither Eliezer Yudkowsky nor Stephen Wolfram.
       
 **** notational velocity family
 
@@ -129,6 +156,8 @@
 
 ** recall is the first issue
 
+*** post it notes, on the desktop
+
 ** associative recall is a tangential issue
 
 ** the claim of serendipity and creativity
@@ -137,15 +166,22 @@
 
 ** hierarchies (folders and files)
 
+*** treenotes
+
+*** 
 ** tags
 
 *** tags vs folders and the case of gmail
 
+** the unit of thought
+
+*** Zettelkasten
+
+*** Scrivener
+
 ** transclusion and other forms of "unitary association"
 
    and ted nelson
-
-*** Zettelkasten hype
 
 *** leo editor
 
@@ -153,4 +189,37 @@
 
 *** notion
 
+    "notion is more than notes"
+
 *** roam
+
+    the counter to "notion is more than notes": "roam is more than notes"
+
+*** athens
+
+*** org-roam
+
+*** spreadsheets
+
+    ibdknox's talk on eve and how people want excel
+
+*** TreeSheets
+
+    http://strlen.com/treesheets/
+
+* practical considerations
+
+  what dimensions should you care about?
+
+  - latency
+  - long term preservability
+  - robustness and backup
+  - format interoperability
+  - your notes are always yours
+  - storage limits
+  - conflict resolution
+  - is collaboration overrated for you?
+    - group recall is different from personal recall
+    - the case of the lowest common denominator and the Google Docs index
+
+** recommendations
