@@ -3,3 +3,71 @@
   it seems like we are in some kind of new wave of note taking software, particularly with notion.so and roamresearch drawing accolades, and various new open source alternatives like org-roam and athens.
 
   I would like to use this space to expand on some related ideas.
+
+* associative note taking
+
+** prior art
+
+*** wikis
+
+**** c2
+
+**** mediawiki (wikipedia)
+
+**** all the other clones
+
+**** tiddlywiki
+
+**** zim
+
+*** plain text editors and derivatives
+
+    and how everybody invents a new format
+
+**** vanilla plain text
+
+***** and then you impose structure
+
+***** free form is still king
+
+**** markdown family
+
+**** org-mode
+
+**** vnd/tiddlywiki
+
+*** it's about the speed
+
+**** notational velocity family
+
+**** google search and suggestions
+
+**** auto-complete
+
+**** address bar evolution and autocomplete
+
+**** did you mean...
+     
+***** as a search fix
+
+***** in command line applications
+
+****** pip
+
+****** node
+
+* the cognitive mechanisms of association
+
+** recall is the first issue
+
+** associative recall is a tangential issue
+
+** the claim of serendipity and creativity
+
+* methods of representing association
+
+** hierarchies (folders and files)
+
+** tags
+
+** transclusion
