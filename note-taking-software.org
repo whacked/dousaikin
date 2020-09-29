@@ -36,8 +36,77 @@
 
 **** vnd/tiddlywiki
 
+** ergonomics
+
 *** it's about the speed
 
+    the barrier between the thought and the (permanent medium)
+
+**** transformation cost (or impedance mismatch)
+
+***** converting thought to another medium
+
+      notation matters
+
+      modality of thought
+
+      - do you think in words?
+      - do you think in pictures?
+      - proprioception
+      - limits of perception
+        - color blindedness
+        - aphantasia
+        - tone deafness
+        - spatial orientation / sense of direction
+        - absolute vs relative
+        - other senses:
+          - taste
+          - smell
+          - starry starry night
+      - music: hum, strum, record the tune
+        - sheet music
+        - and the limits of auditory memory?
+
+      so, text is one form of the medium
+      
+      then there are images
+      
+      the clipboard gives you a ready-made representation
+
+      these things are generally self-indexing
+
+      but for novel ideas, you're back to text
+
+      hopefully you are a good writer, have a good arsenal of of precise vocabulary!
+
+      let me describe my coffee to you
+      - nutty
+      - bold
+      - full-bodied
+      - fruity
+      - caramel
+      - buttery
+      - chocolate overtones
+      - buckets of cherry
+      - whispers of autumn
+      - serpents and liquid lipids
+        
+      when you're in the wrong modality, you're approximating using your current set of tools. when your set of tools (such as your command of the language) does not provide a good translation across the modality boundary, that will be the limit of the information you preserve!
+      
+***** the exception: perfect recall
+
+      - people who never forget
+      - even people who never forget /need a cue/
+
+      you are thus recording /cues/, among other things
+
+      but then it is important to keep in mind what purpose does your current writing serve:
+      - I am planning a project (goal-oriented planning)
+      - I am preparing for a speech (content organization)
+      - I am trying to record what the teacher is saying (information dump)
+      - I am recording a thought (thought stream, information dump)
+      - I am recording a sensation (cross modal memory cue)
+      
 **** notational velocity family
 
 **** google search and suggestions
@@ -70,4 +139,18 @@
 
 ** tags
 
-** transclusion
+*** tags vs folders and the case of gmail
+
+** transclusion and other forms of "unitary association"
+
+   and ted nelson
+
+*** Zettelkasten hype
+
+*** leo editor
+
+*** trilium
+
+*** notion
+
+*** roam
