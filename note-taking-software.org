@@ -1,3 +1,17 @@
+* TODO
+  
+  - [ ] interest data over time
+  - [ ] funding of companies in this space over time
+  - [ ] comparison of productivity fads over time
+  - [ ] screenshots and action videos
+  - [ ] user review data
+  - [ ] historical appearances
+  - [ ] for open source software, the commit trajectory
+  - [ ] youtube video histories
+  - [ ] breakdown of editor by style
+  - [ ] comparison table
+  - [ ] and why this table is more interesting than wikipedia (need better columns)
+
 * note taking software
 
   it seems like we are in some kind of new wave of note taking software, particularly with notion.so and roamresearch drawing accolades, and various new open source alternatives like org-roam and athens.
@@ -42,9 +56,19 @@
 
 **** evernote
 
+     evernote interest over time
+
+***** TODO pull stored data and display
+
+      
+      
 **** onenote
 
 **** DEVONthink
+
+*** hierarchical note taking
+
+**** workflowy
 
 *** mind mapping / graphs
 
@@ -53,6 +77,8 @@
 *** mixed media
 
 **** xournal family
+
+*** memex and other AI-assisted tools
 
 ** ergonomics
 
@@ -129,10 +155,15 @@
       
 ***** the second exception: exceptional recall
 
+      - kim peek
       - eliezer yudkowsky
       - stephen wolfram
+      - harold bloom
+      - john von neumann
+      - christopher hitchens
+      - homer
 
-      since you are reading this, you are neither Eliezer Yudkowsky nor Stephen Wolfram.
+      since you are reading this, you are neither Eliezer Yudkowsky, Stephen Wolfram, nor Kim Peek
       
 **** notational velocity family
 
@@ -161,6 +192,12 @@
 ** associative recall is a tangential issue
 
 ** the claim of serendipity and creativity
+
+   - when is a deliberately maintained association a "good" association?
+     - is it good, if it's overtly related?
+       - projects -- fragrances -- flowers -- spices -- cooking -- alchemy -- medieval stories -- knights and dragons
+     - is it better, if it's a more surprising jump?
+       - fragrances and dragons
 
 * methods of representing association
 
@@ -222,4 +259,14 @@
     - group recall is different from personal recall
     - the case of the lowest common denominator and the Google Docs index
 
+** the editor / ghost writer problem you will not escape
+   
+*** why long form editing is still important
+
+    and how it is a /true/ reflection of skill
+
+    harold bloom
+
+*** the only way to get better at it yourself is to do it yourself
+    
 ** recommendations
