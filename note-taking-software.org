@@ -199,6 +199,24 @@
      - is it better, if it's a more surprising jump?
        - fragrances and dragons
 
+* refined thought comes through pruning
+
+  there are 2 processes generally known as "exploration and exploitation" in optimization processes; thought refinement is no exception.
+
+  exploration, brainstorming, thought-streaming, idea collecting, and such: allow any potential linkages of thought for consideration
+
+  exploitation in thought is entirely a /pruning/ process.
+
+  - well-established studies of experts displaying less brain activation in tasks within their domains of expertise
+  - studies of participants showing decreased brain activation over time commensurate with expertise
+  - the faster the learner, the faster the decrease
+
+  for any thought-oriented tool, there are thus 2 phases of thought refinement. Most tools only deal with accumulation. Establishing "richer" thought associations is further along the direction of accumulation: in fact, it explosively increases complexity, but is saved by the implicit biological process of /your/ brain doing its job of long-term reorganization and reinterpretation that happens in your subconsciousness.
+
+** refinement of thought
+
+   - ira glass on taste
+
 * methods of representing association
 
 ** hierarchies (folders and files)
