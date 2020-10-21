@@ -262,6 +262,10 @@
 
     http://strlen.com/treesheets/
 
+* personal knowledge graph
+
+  
+
 * practical considerations
 
   what dimensions should you care about?
@@ -288,3 +292,11 @@
 *** the only way to get better at it yourself is to do it yourself
     
 ** recommendations
+
+* unsorted
+  
+** honeymoon period in applications
+
+** why stay inside a program like emacs
+
+** the collision course with jupyter
