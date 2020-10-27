@@ -300,3 +300,8 @@
 ** why stay inside a program like emacs
 
 ** the collision course with jupyter
+
+** need some analysis on the continued popularity of note taking software posts on HN
+
+   there are always lots of comments and they are always the same
+   - [2020-10-26 Mon] https://news.ycombinator.com/item?id=24903311
