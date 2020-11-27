@@ -1,0 +1,61 @@
+* getting web bluetooth on linux to work
+
+  my test system runs on a Lenovo Thinkpad Yoga running Fedora 32:
+
+  #+BEGIN_SRC sh :results output
+  lsb_release -a
+  #+END_SRC
+
+  #+RESULTS:
+  : LSB Version:	:core-4.1-amd64:core-4.1-noarch
+  : Distributor ID:	Fedora
+  : Description:	Fedora release 32 (Thirty Two)
+  : Release:	32
+  : Codename:	ThirtyTwo
+
+  and google chrome 87:
+
+  [[file:img/2020/11/2020-11-26_Selection_003.png]]
+
+  which according to chromestatus, bluetooth has long been supported:
+
+  [[file:img/2020/11/2020-11-26_Selection_001.png]]
+  
+  If you search directly online, you will find bunch of information which will lead you to the wrong places, although the solution is very simple. Here I document the process of finding what actually works.
+
+  To find a working example of something that engages the web bluetooth api, find find this page: https://github.com/WebBluetoothCG/demos, which links to hosted examples at https://webbluetoothcg.github.io/demos/. The first link on that page is [[https://webbluetoothcg.github.io/demos/bluetooth-led-display/][bluetooth-led-display]].
+
+  Directly accessing the page from a Chrome family browser will quickly show whether your browser is capable of accessing the web bluetooth API. If your browser is not enabled correctly, you will see an error message:
+
+  [[file:img/2020/11/2020-11-26_Selection_002.png]]
+
+  #+BEGIN_EXAMPLE
+    No Web Bluetooth
+
+    The Web Bluetooth API is missing. Please enable it at chrome://flags/#enable-web-bluetooth and try again.
+  #+END_EXAMPLE
+
+  The error message's advice leads us to this configuration view in the browser:
+
+  [[file:img/2020/11/2020-11-26_Selection_004.png]]
+
+  which indeeds shows that there are no flags matching the name of =enable-web-bluetooth=. You may double check this is true across both the =Available= and =Unavailable= tabs. In short, *the advice is out of date*.
+
+  Available:
+
+  [[file:img/2020/11/2020-11-26_Selection_005.png]]
+  Unavailable:
+
+  [[file:img/2020/11/2020-11-26_Selection_006.png]]
+
+  it turns out that the bluetooth web api is entirely bundled within =enable-experimental-web-platform-features=, which is disabled by default.
+  
+  [[file:img/2020/11/2020-11-26_Selection_007.png]]
+
+  enabling this flag requires a browser restart:
+  
+  [[file:img/2020/11/2020-11-26_Selection_008.png]]
+
+  after restarting the browser, accessing the bluetooth led display demo now successfully engages querying for bluetooth devices:
+  
+  [[file:img/2020/11/2020-11-26_Selection_009.png]]
