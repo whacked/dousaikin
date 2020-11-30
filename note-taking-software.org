@@ -305,3 +305,10 @@
 
    there are always lots of comments and they are always the same
    - [2020-10-26 Mon] https://news.ycombinator.com/item?id=24903311
+
+** spatial information and the mind's canvas
+
+   a truly associative support system must be multi-modal
+
+   spatial information must have permanence
+   
