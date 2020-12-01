@@ -312,3 +312,30 @@
 
    spatial information must have permanence
    
+** the problem with collaborative note taking apps
+
+   collaboration, teams, enterprise, that's where the money is
+   
+   note taking products that take off will have pressure to upsell to businesses: "trusted by <famous company>"
+
+   but the team brain has a different organizational structure than the personal brain
+
+   a simple example is thinking styles:
+   collaborative docs have a tendency to cater to the lowest common dennominator.
+   in a lab, maybe everybody knows how to write LaTeX, which makes something like overleaf useful.
+
+   in a corporate environment, nobody has the time to learn LaTeX. Everybody likes touch and go. Some people won't even want to touch Markdown.
+   so you end up with WYSIWYG collaborative documents in some cases.
+
+   now suppose you have a kinesthetic thinking style. You make analogies in terms of gestures, body positions, and you like to describe things in terms of the texture to touch.
+   or better, (or worse), you are a synesthete, and write your thoughts about music in terms of how orange it is.
+   It's extremely unlikely that your mental associations will transfer to anybody else.
+
+   we must, by necessity, standardize on a protocol -- the lowest common denominator protocol.
+
+   the moment you are restricted from using personalized associations, your notes are no longer personally optimized.
+
+   While that doesn't stop you from using your personal associations when you go back home and take notes for your own needs, it does mean that the product development pressures for the software are not aligned for your use, but for the greatest cmomon denominator use.
+
+   Thus, the better a tool suits you personally, the more likely the tool will be highly tailored to your taste, and hard for someone else to use. The most effective tool for you must support your wildest customization wants. Multicolored text. Icons of different sizes, pasted off center, a navigation bar on the bottom of the screen.
+   
